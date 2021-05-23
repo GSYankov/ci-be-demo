@@ -22,4 +22,4 @@ before_deploy:
     skip_cleanup: true
     script: echo "DONE!"
     on:
-      branch: main
+      branch: master
